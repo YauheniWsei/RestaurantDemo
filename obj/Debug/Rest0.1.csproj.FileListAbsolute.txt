@@ -1,0 +1,14 @@
+C:\Users\Yauheni\source\repos\RestaurantDemo\Rest0.1\bin\Debug\Rest0.1.exe.config
+C:\Users\Yauheni\source\repos\RestaurantDemo\Rest0.1\bin\Debug\Rest0.1.exe
+C:\Users\Yauheni\source\repos\RestaurantDemo\Rest0.1\bin\Debug\Rest0.1.pdb
+C:\Users\Yauheni\source\repos\RestaurantDemo\Rest0.1\obj\Debug\Rest0.1.csproj.AssemblyReference.cache
+C:\Users\Yauheni\source\repos\RestaurantDemo\Rest0.1\obj\Debug\Rest0._1.Entrance.resources
+C:\Users\Yauheni\source\repos\RestaurantDemo\Rest0.1\obj\Debug\Rest0._1.Properties.Resources.resources
+C:\Users\Yauheni\source\repos\RestaurantDemo\Rest0.1\obj\Debug\Rest0.1.csproj.GenerateResource.cache
+C:\Users\Yauheni\source\repos\RestaurantDemo\Rest0.1\obj\Debug\Rest0.1.csproj.CoreCompileInputs.cache
+C:\Users\Yauheni\source\repos\RestaurantDemo\Rest0.1\obj\Debug\Rest0.1.exe
+C:\Users\Yauheni\source\repos\RestaurantDemo\Rest0.1\obj\Debug\Rest0.1.pdb
+C:\Users\Yauheni\source\repos\RestaurantDemo\Rest0.1\obj\Debug\Rest0._1.AdminForm.resources
+C:\Users\Yauheni\source\repos\RestaurantDemo\Rest0.1\obj\Debug\Rest0._1.CookForm.resources
+C:\Users\Yauheni\source\repos\RestaurantDemo\Rest0.1\obj\Debug\Rest0._1.WaiterForm.resources
+C:\Users\Yauheni\source\repos\RestaurantDemo\Rest0.1\obj\Debug\Rest0._1.ConfirmOrder.resources
