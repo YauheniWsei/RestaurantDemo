@@ -7,11 +7,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.SqlClient;
 
 namespace Rest0._1
 {
     public partial class WaiterForm : Form
     {
+
+        DataBase dataBase = new DataBase();
+
         public WaiterForm()
         {
             InitializeComponent();
@@ -46,7 +50,6 @@ namespace Rest0._1
             else { confirmOrder.label_for_comments.Text = ($"Comments:\n{comments_box.Text}"); }
 
             confirmOrder.price_text.Text = ($"{(num_of_position_1.Value * 6) + (num_of_position_2.Value * 4) + (num_of_position_1.Value * 9)}$");
-
         }
 
         private void table2_Click(object sender, EventArgs e)

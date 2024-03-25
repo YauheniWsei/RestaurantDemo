@@ -833,20 +833,20 @@ namespace Rest0._1
         private System.Windows.Forms.Panel order_comment_panel;
         private System.Windows.Forms.Panel order_details_panel;
         private System.Windows.Forms.Panel panel_num_of_table;
-        private System.Windows.Forms.NumericUpDown numeric_num_table;
         private System.Windows.Forms.Label num_table_text;
         private System.Windows.Forms.TextBox status_text_box;
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Label positions_text;
-        private System.Windows.Forms.ComboBox Box_dishes_1;
-        private NumericUpDown num_of_position_1;
-        private NumericUpDown num_of_position_2;
-        private ComboBox Box_dishes_2;
         private Label pos_2_text;
-        private NumericUpDown num_of_position_3;
-        private ComboBox Box_dishes_3;
         private Label pos_3_text;
-        private TextBox comments_box;
         private Label comment_text;
+        public NumericUpDown numeric_num_table;
+        public ComboBox Box_dishes_1;
+        public NumericUpDown num_of_position_1;
+        public NumericUpDown num_of_position_2;
+        public ComboBox Box_dishes_2;
+        public NumericUpDown num_of_position_3;
+        public ComboBox Box_dishes_3;
+        public TextBox comments_box;
     }
 }
